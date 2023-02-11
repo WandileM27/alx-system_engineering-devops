@@ -1,0 +1,3 @@
+#!/bin/bash
+ln -sf $root@638234cf6504:~/alx-system_engineering-devops/0x00-shell_basics#/ $/bin/ls/
+
